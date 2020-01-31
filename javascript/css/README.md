@@ -1,0 +1,1 @@
+Exercises and mini projects for learning purposes
